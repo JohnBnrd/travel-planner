@@ -1,7 +1,12 @@
+import Header from "./components/Header";
+
 function App() {
   return (
     <div>
-      <h1>Travel Planner</h1>
+      <Header />
+      <main>
+        <p>Countries will appear here</p>
+      </main>
     </div>
   );
 }
