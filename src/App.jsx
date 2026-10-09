@@ -7,22 +7,22 @@ function App() {
       <Header />
       <main>
         <CountryCard
-          name="Japon"
+          name="Japan"
           capital="Tokyo"
           population={125100000}
-          region="Asie"
+          region="Asia"
         />
         <CountryCard
           name="Canada"
           capital="Ottawa"
           population={38900000}
-          region="Amérique du Nord"
+          region="North America"
         />
         <CountryCard
-          name="Sénégal"
+          name="Senegal"
           capital="Dakar"
           population={17300000}
-          region="Afrique"
+          region="Africa"
         />
       </main>
     </div>
